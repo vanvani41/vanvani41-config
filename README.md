@@ -1,3 +1,1 @@
-WARNING THIS CONFIG FOR HITSCOREVISUALIZER 3.5.2 FOR BEAT SABER 1.39.1
-
-ПОПЕРЕДЖЕННЯ ЦЕЙ КОНФІГ ДЛЯ HITSCOREVISUALIZER 3.5.2 ДЛЯ BEAT SABER 1.39.1
+To install HSV configs go to Beat Saber/UserData/HitScoreVisualizer and put in "HitScoreVisualizer" folder the config, if you don't have UserData folder, just boot the game, and it should create UserData folder
