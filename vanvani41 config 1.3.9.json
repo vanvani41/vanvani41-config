@@ -11,7 +11,7 @@
     "judgments": [
       {
         "threshold": 115,
-        "text": "<size=200%>15</size>",
+        "text": "<size=200%>15\n\n+++++++++</size>",
         "color": [
           1.0,
           1.0,
